@@ -91,6 +91,7 @@ Documented commands (type help <topic>):
 EOF  help  quit
 (hbnb) 
 $
+
 AUTHORS
 =======
 Emma Crentsil | Github: EmmaCrentsil29
